@@ -1,0 +1,2 @@
+# currencyCalculatorAngular
+Currency Calculator Angular
